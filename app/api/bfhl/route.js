@@ -199,9 +199,9 @@ export async function POST(req) {
     console.log(JSON.stringify(hierarchies, null, 2));
 
     return Response.json({
-      user_id: "raju_ddmmyyyy",
-      email_id: "your_email@srm.edu",
-      college_roll_number: "your_roll_number",
+      user_id: "raju_03052005",
+      email_id: "rr4844@srmist.edu",
+      college_roll_number: "RA2311003011434",
       hierarchies,
       invalid_entries,
       duplicate_edges,
