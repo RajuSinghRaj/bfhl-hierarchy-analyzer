@@ -199,7 +199,7 @@ export async function POST(req) {
     console.log(JSON.stringify(hierarchies, null, 2));
 
     return Response.json({
-      user_id: "raju_03052005",
+      user_id: "raju_singh_03052005",
       email_id: "rr4844@srmist.edu",
       college_roll_number: "RA2311003011434",
       hierarchies,
